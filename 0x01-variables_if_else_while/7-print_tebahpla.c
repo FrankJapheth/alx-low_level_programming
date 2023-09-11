@@ -9,6 +9,7 @@ int main(void)
 {
 	char reversAlphabet[26] = "zyxwvutsrqponmlkjihgfedcba";
 	unsigned long int i;
+
 	i = 0;	
 	while (i <= sizeof(reversAlphabet))
 	{
