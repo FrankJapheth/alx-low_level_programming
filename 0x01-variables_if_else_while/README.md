@@ -15,3 +15,5 @@
 
 6-print_numberz - prints all base 10digits with putchar
 
+7-print_tebahpla - prints alphbet characters in reverse
+
