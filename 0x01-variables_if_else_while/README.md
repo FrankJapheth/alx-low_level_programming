@@ -5,3 +5,5 @@
 
 1-last_digit - generates random integer and checks its last digit of not 0, greater than 5 of less than 6 and not 0
 
+2-print_alphabet - prints alphabet letters in small caps
+
