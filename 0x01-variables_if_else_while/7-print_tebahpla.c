@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char reversAlphabet[28] = "0abcdefghijlmnopqrstuvwxyz";
+	char reversAlphabet[28] = "0abcdefghijklmnopqrstuvwxyz";
 	unsigned long int i;
 	unsigned long int j;
 
