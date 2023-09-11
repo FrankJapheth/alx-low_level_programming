@@ -7,3 +7,5 @@
 
 2-print_alphabet - prints alphabet letters in small caps
 
+3-print_alphabets - prints alphabet in small caps then in capital caps
+
