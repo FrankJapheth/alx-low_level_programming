@@ -7,14 +7,16 @@
 
 int main(void)
 {
-	char reversAlphabet[26] = "zyxwvutsrqponmlkjihgfedcba";
+	char reversAlphabet[28] = "0abcdefghijlmnopqrstuvwxyz";
 	unsigned long int i;
+	unsigned long int j;
 
-	i = 0;
-	while (i <= sizeof(reversAlphabet))
+	i = sizeof(reversAlphabet) - 1;
+	j = 0;
+	while (i > j)
 	{
 		putchar(reversAlphabet[i]);
-		i++;
+		i--;
 	}
 
 	putchar('\n');
