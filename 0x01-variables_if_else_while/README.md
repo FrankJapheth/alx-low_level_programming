@@ -13,3 +13,5 @@
 
 5-print_numbers - prints all base 10 digits
 
+6-print_numberz - prints all base 10digits with putchar
+
