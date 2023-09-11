@@ -9,3 +9,5 @@
 
 3-print_alphabets - prints alphabet in small caps then in capital caps
 
+4-print_alphabt - prints all alphabet letters except e and q
+
